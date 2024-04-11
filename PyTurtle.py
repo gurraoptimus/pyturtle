@@ -11,4 +11,5 @@ for i in range(360):
     t.color(c)
     t.left(1)
     t.fd(1)
-for i in range
+for i in range(2):
+    t
