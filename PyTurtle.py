@@ -1,4 +1,4 @@
 import turtle
 import colorsys
 t = turtle.Turtle()
-s = t.Sreen().bgcolor(
+s = turtle.Sreen().bgcolor('black')
