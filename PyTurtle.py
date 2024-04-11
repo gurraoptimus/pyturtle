@@ -13,3 +13,4 @@ for i in range(360):
     t.fd(1)
 for i in range(2):
     t.left(2)
+    t.circle(100)
