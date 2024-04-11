@@ -6,3 +6,5 @@ t.speed(8)
 n = 70
 h = 0
 for i in range(360):
+    c = colorsys.hsv_to_rgb(h, 1, 0.8)
+    h+= 1/n
