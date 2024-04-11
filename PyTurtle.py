@@ -12,4 +12,4 @@ for i in range(360):
     t.left(1)
     t.fd(1)
 for i in range(2):
-    t
+    t.left(2)
