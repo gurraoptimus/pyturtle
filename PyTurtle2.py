@@ -7,7 +7,7 @@ def draw():
     h = 0
     for i in range(100):
         c = colorsys.hsv_to_rgb(h,1,1)
-        h += 0.5
+        h += 0.4
         up() # type: ignore
         goto(0,0) # type: ignore
         down() # type: ignore
