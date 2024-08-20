@@ -23,7 +23,7 @@ def draw():
         lt (29)
         for j in range(129):
             fd(i)
-            circle(j, 299 steps=2)
+            circle(j, 299, steps=2)
         end_fill()
 draw()    
 done()
