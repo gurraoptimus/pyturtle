@@ -18,7 +18,7 @@ def draw():
         circle(i, 12) # type: ignore
         fd (290) # type: ignore
         fd(i) # type: ignore
-        lt (29) # type: ignore
+        lt (12) # type: ignore
         for j in range(129):
             fd(i) # type: ignore
             circle(j, 299, steps=2) # type: ignore
