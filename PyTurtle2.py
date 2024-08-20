@@ -15,7 +15,7 @@ def draw():
         fillcolor (c) # type: ignore
         begin_fill() # type: ignore
         rt (98) # type: ignore
-        circle(i, 12)# type: ignore
+        circle(i, 12) # type: ignore
         fd (290) # type: ignore
         fd(i) # type: ignore
         lt (29) # type: ignore
