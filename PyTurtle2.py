@@ -23,5 +23,5 @@ def draw():
             fd(i)
             circle(j, 299, steps=2)
         end_fill()
-draw()    
+draw()  
 done()
