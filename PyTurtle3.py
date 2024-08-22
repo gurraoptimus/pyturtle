@@ -17,4 +17,7 @@ for i in range(90):
     forward(100)
     left(60)
     forward(100)
-    h +
+    h += 0.02
+    color(colorsys.hsv_to_rgb(h,1,1))
+    forward(100)
+    right()
