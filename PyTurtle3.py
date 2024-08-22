@@ -22,3 +22,5 @@ for i in range(90):
     forward(100)
     right(60)
     forward(100)
+    left(120)
+    circle(-50)
