@@ -12,4 +12,9 @@ for i in range(90):
     left(60)
     forward(100)
     right(120)
-    
+    circle(50)
+    left(240)
+    forward(100)
+    left(60)
+    forward(100)
+    h +
