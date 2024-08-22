@@ -29,4 +29,5 @@ for i in range(90):
     right(60)
     forward(100)
     left(2)
-    h += 0.
+    h += 0.02
+done()
